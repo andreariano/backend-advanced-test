@@ -13,4 +13,6 @@ Create a react application for managing super-heroes/villains.
 
 Use React with Redux.
 
+Cover with unit tests.
+
 Also, make it easy to deploy/run your service(s) locally (consider using some container/vm solution for this). Once done, share your code with us.
